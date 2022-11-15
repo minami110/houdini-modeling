@@ -1,0 +1,5 @@
+# Houdini backup files
+*bak*.hip
+
+# Houdini cache geometries
+*bgeo.sc
